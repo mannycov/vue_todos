@@ -30,6 +30,7 @@ export default {
 
   #nav {
     background: #f4f4f4;
+    color: #2c3e50;
     padding: 30px;
   }
 
